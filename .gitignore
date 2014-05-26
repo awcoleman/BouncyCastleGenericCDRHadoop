@@ -1,0 +1,9 @@
+#compiled java
+*.class
+*.jar
+#passwords and keys
+id_rsa*
+id_dsa*
+*.pass
+Password*.properties
+password*.properties
